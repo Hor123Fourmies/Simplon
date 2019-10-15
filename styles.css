@@ -1,0 +1,89 @@
+body{
+    background: #fff5ea;
+    font-family: "Nirmala UI";
+}
+
+#titre{
+    font-size: 45px;
+    margin-top: 50px;
+}
+
+#texte{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+#cadres{
+    text-align: center;
+}
+
+#cadreGauche{
+    height: 180px;
+    width: 250px;
+    border: black 1px solid;
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 50px;
+}
+
+#cadreDroite{
+    height: 180px;
+    width: 250px;
+    border: black 1px solid;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+
+#CliquezIci{
+    text-align: center;
+}
+
+#ClicGauche{
+    display: inline-block;
+    height: 180px;
+    width: 250px;
+    border: none;
+    margin-right: 50px;
+}
+
+#ClicDroite{
+    display: inline-block;
+    height: 180px;
+    width: 250px;
+    border: none;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#ManonNoblet{
+    font-family: "Nirmala UI";
+    text-align: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: white;
+    padding-top: 10px;
+}
+
+footer{
+    background: dimgray;
+}
+
+#activateWindows{
+    border: none;
+    margin-right: 30px;
+    width: 300px;
+    alignment: right;
+    margin-left: 1280px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+#AW{
+    font-size: 20px;
+}
